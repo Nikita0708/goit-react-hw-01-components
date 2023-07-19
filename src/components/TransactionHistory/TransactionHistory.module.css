@@ -1,0 +1,27 @@
+.wrapper {
+    margin-top: 100px;
+    margin: 0 auto;
+    width: 600px;
+    padding: 40px 20px;
+    background: #faffaa;
+}
+
+.table {
+    width: 450px;
+    margin: 0 auto;
+    border: 1px solid grey;
+}
+
+th {
+    font-size: 24px;
+    font-weight: 500;
+    padding: 10px 15px;
+    background-color: grey;
+}
+
+td {
+    font-size: 16px;
+    border: 1px solid grey;
+    padding: 10px 15px;
+    text-align: center;
+}
